@@ -1,4 +1,4 @@
-# curso Javascript alura
+# Curso Javascript alura
 
 <p>Projeto desenvolvido como projeto do curso <b>Javascript</b> da plataforma de cursos <a href="https://www.alura.com.br/">Alura</a>, ministrado pelo instrutor Douglas Ferreira.</p>
 <p>O curso teve a carga horária de 20 horas e é composto pelos seguintes tópicos:</p>
